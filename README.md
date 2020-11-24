@@ -1,2 +1,2 @@
 # My-media-player
-A audio player which plays audio files from your phone memory.
+An android application, which reads all the audios form the phone memory and play the selected song.
